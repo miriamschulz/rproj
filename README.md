@@ -9,12 +9,12 @@
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
-The goal of demopkg is to …
+The goal of demopkg is to practice making and sharing a package in R.
 
 ## Installation
 
 You can install the development version of demopkg like so:
 
 ``` r
-devtools::install_github("miriamschulz/demopkg")
+devtools::install_github("miriamschulz/rproj")
 ```
