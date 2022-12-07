@@ -1,5 +1,5 @@
 Package: demopkg
-Title: This package is a demo package for creating an R package
+Title: This package is a demo for creating an R package
 Date: 2022-10-19
 Version: 0.0.0.9000
 Authors@R: 
