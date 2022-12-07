@@ -11,7 +11,6 @@
 #'
 #' @return A character string of the formatted x value(s).
 #'
-#' @examples
 round0 <- function(x, digits = 0) {
   # Create formatting string
   fmt <- paste0("%.", digits, "f")
